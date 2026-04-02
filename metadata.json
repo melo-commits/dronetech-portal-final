@@ -1,0 +1,5 @@
+{
+  "name": "Dronetech Management Portal",
+  "description": "A comprehensive management dashboard for Dronetech to track commissions, expenses, and projects with payment predictability.",
+  "requestFramePermissions": []
+}
